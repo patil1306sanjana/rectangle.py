@@ -2,3 +2,6 @@ a=length=5
 b=breadth=7
 print("area of rectangle",a*b)
 print("perimeter of rectangle ",2*(a+b))
+pi= 3.14
+r=float(input("Enter the radius of circle:"))
+print("the area of circle",pi*r*r)
