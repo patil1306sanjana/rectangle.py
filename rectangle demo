@@ -1,3 +1,4 @@
 a=length=5
 b=breadth=7
 print("area of rectangle",a*b)
+print("perimeter of rectangle ",2*(a+b))
